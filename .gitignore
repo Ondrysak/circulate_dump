@@ -1,0 +1,7 @@
+# Python/runtime artifacts
+__pycache__/
+source.html
+
+# Generated patch dumps
+dumps/**
+!dumps/.gitkeep
